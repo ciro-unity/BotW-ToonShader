@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!95 &1873503220
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4155092827249000277}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d7aabf5e33eb7434b807049163b2ea0b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1001 &5370604124112709212
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -927199367670048503, guid: d3aea247b6976ac4298d5d2e8c0a681b,
+        type: 3}
+      propertyPath: m_Name
+      value: CactusNails
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: d3aea247b6976ac4298d5d2e8c0a681b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: d3aea247b6976ac4298d5d2e8c0a681b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: d3aea247b6976ac4298d5d2e8c0a681b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.29
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: d3aea247b6976ac4298d5d2e8c0a681b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: d3aea247b6976ac4298d5d2e8c0a681b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.9642613
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: d3aea247b6976ac4298d5d2e8c0a681b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: d3aea247b6976ac4298d5d2e8c0a681b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.2649533
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: d3aea247b6976ac4298d5d2e8c0a681b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: d3aea247b6976ac4298d5d2e8c0a681b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: d3aea247b6976ac4298d5d2e8c0a681b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -149.272
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: d3aea247b6976ac4298d5d2e8c0a681b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1651863904801215526, guid: d3aea247b6976ac4298d5d2e8c0a681b,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 95c4b1fee29e24bf5b0ca33376bd0d18, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d3aea247b6976ac4298d5d2e8c0a681b, type: 3}
+--- !u!1 &4155092827249000277 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: d3aea247b6976ac4298d5d2e8c0a681b,
+    type: 3}
+  m_PrefabInstance: {fileID: 5370604124112709212}
+  m_PrefabAsset: {fileID: 0}
