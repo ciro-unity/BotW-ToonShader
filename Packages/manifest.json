@@ -1,11 +1,12 @@
 {
   "dependencies": {
     "com.unity.cinemachine": "2.3.4",
+    "com.unity.ext.nunit": "1.0.0",
     "com.unity.ide.vscode": "1.1.2",
     "com.unity.recorder": "2.0.3-preview.1",
-    "com.unity.render-pipelines.universal": "7.0.1",
+    "com.unity.render-pipelines.universal": "7.1.1",
     "com.unity.textmeshpro": "2.0.1",
-    "com.unity.timeline": "1.1.0",
+    "com.unity.timeline": "1.2.1",
     "com.unity.ugui": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",

@@ -10,7 +10,7 @@ Material:
   m_Name: Barrel
   m_Shader: {fileID: -6465566751694194690, guid: e87631564b11f44df856e594cea2c530,
     type: 3}
-  m_ShaderKeywords: _ENVIRONMENTREFLECTIONS_OFF
+  m_ShaderKeywords: HARD_SHADING_ON _ENVIRONMENTREFLECTIONS_OFF
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -78,6 +78,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Boolean_F4B9FD79: 1
+    - HARD_SHADING: 1
     - Vector1_1EF10E40: 0
     - Vector1_340588E7: 0
     - Vector1_3C316D74: 2.5
