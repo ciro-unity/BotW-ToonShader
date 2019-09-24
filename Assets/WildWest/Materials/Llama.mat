@@ -100,7 +100,7 @@ Material:
     - _GlossyReflections: 0
     - _HardShading: 1
     - _Metallic: 0
-    - _NormalMult: 0.666
+    - _NormalMult: 0.566
     - _OcclusionMult: 0.805
     - _OcclusionStrength: 1
     - _QueueOffset: 0

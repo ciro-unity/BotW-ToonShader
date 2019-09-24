@@ -62,22 +62,23 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Boolean_F4B9FD79: 1
+    - HARD_SHADING: 0
     - Vector1_1EF10E40: 1
     - Vector1_3C316D74: 2.2
     - Vector1_41FCC5C7: 0.5
     - Vector1_868BEE02: 0.1
     - Vector1_962926F1: 1.1
     - Vector1_A3ADAA29: 20.7
-    - _BacklightAmount: 2.3
+    - _BacklightAmount: 0.93
     - _DabsRotation: 15
-    - _DabsTiling: 26.8
+    - _DabsTiling: 11
     - _HardShading: 1
     - _NormalMult: 1
     - _OcclusionMult: 1
-    - _Smoothness: 0.39
+    - _Smoothness: 0.158
     m_Colors:
     - Color_DF0B7C58: {r: 0.5518868, g: 0.8506291, b: 1, a: 0}
     - Vector2_45E88D1A: {r: 1, g: 1, b: 0, a: 0}
-    - _Color: {r: 0.28315237, g: 0.9528299, b: 0.9528302, a: 0}
-    - _Specular: {r: 0.9811321, g: 0.9811321, b: 0.9811321, a: 0}
+    - _Color: {r: 0.745283, g: 0.6756764, b: 0.3972499, a: 0}
+    - _Specular: {r: 0.5471698, g: 0.3019758, b: 0.3019758, a: 0}
     - _TextureTiling: {r: 1, g: 1, b: 0, a: 0}
